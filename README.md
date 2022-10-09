@@ -1,7 +1,7 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=31&duration=1000&pause=1000&color=2C974BCD&width=435&lines=Hello!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Thong</h1>
-<h3 align="center">A intern full-stack developer from Viet Nam</h3>
+<h3 align="center">An intern full-stack developer from Viet Nam</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thongnt0208&label=Profile%20views&color=0e75b6&style=flat" alt="thongnt0208" /> </p>
 
