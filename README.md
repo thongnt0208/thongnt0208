@@ -1,4 +1,3 @@
-### Hi there 👋
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=31&duration=1000&pause=1000&color=2C974BCD&width=435&lines=Hello!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Thong</h1>
