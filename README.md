@@ -69,11 +69,12 @@
 ***
 
 <!-- Connect -->
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me via:</h3>
 <p align="center">
-<a href="https://fb.com/thongwisen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/thongwisen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thong-nguyen-trung-260052135/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thong-nguyen-trung-260052135/" height="30" width="40" /></a>
-<a href="https://twitter.com/wisenvn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wisenvn" height="30" width="40" /></a>
+    <a href="https://fb.com/thongwisen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"alt="ThongNT | Facebook" height="30" width="40" /></a>
+    <a href="www.linkedin.com/in/thongnt0208/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=ThongNT | LinkedIn" height="30" width="40" /></a>
+    <a href="https://twitter.com/wisenvn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ThongNT | Twitter" height="30" width="40" /></a>    
+    <a href="https://www.youtube.com/channel/UCr77wBvaI0ml6ZPXaMlZwWA" target="_blank"><img align="center" alt="ThongNt | Youtube" width="32px" src="https://icon-library.com/images/youtube-video-icon-png/youtube-video-icon-png-29.jpg" /></a> &nbsp;&nbsp;
 </p>
 
  <div align="center">
