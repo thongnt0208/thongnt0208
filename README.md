@@ -16,12 +16,7 @@
 
 - 📫 How to reach me **trungthongnguyen2002@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://fb.com/thongwisen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/thongwisen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thong-nguyen-trung-260052135/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thong-nguyen-trung-260052135/" height="30" width="40" /></a>
-<a href="https://twitter.com/wisenvn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wisenvn" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -64,8 +59,24 @@
 
  </p>
 
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thongnt0208&show_icons=true&locale=en&layout=compact" alt="thongnt0208" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thongnt0208&show_icons=true&locale=en" alt="thongnt0208" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thongnt0208&" alt="thongnt0208" /></p>
+
+***
+
+<!-- Connect -->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://fb.com/thongwisen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/thongwisen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thong-nguyen-trung-260052135/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thong-nguyen-trung-260052135/" height="30" width="40" /></a>
+<a href="https://twitter.com/wisenvn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wisenvn" height="30" width="40" /></a>
+</p>
+
+ <div align="center">
+  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  &copy; 2022 ThongNT - thongnt0208
+</div>
