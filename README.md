@@ -13,6 +13,8 @@
 
 - 👯 I’m collaborating on [bakingRecipeSharingSocial](https://github.com/SE1613-GROUP4-BakeryReceip)
 
+- 🥇 My awards and certifications: [awards](https://github.com/thongnt0208/certifications)
+
 - 💁‍ My portfolio: [here](https://thongnt0208.github.io/portfolio)
 
 - 🌱 I’m currently learning **JS, ReactJS, Java, UX/UI,...**
