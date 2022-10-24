@@ -6,13 +6,16 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thongnt0208&label=Profile%20views&color=0e75b6&style=flat" alt="thongnt0208" /> </p>
 
 
+
 - 😍My favourite project: [OrganicWeb](https://github.com/thongnt0208/OrganicWeb) 
 
 - 🔭 I’m currently working on [dicePlay](https://github.com/thongnt0208/dicePlay.git)
 
-- 🌱 I’m currently learning **JS, ReactJS, Java, UX/UI,...**
-
 - 👯 I’m collaborating on [bakingRecipeSharingSocial](https://github.com/SE1613-GROUP4-BakeryReceip)
+
+- 💁‍ My portfolio: [here](https://thongnt0208.github.io/portfolio)
+
+- 🌱 I’m currently learning **JS, ReactJS, Java, UX/UI,...**
 
 - 📫 How to reach me **trungthongnguyen2002@gmail.com**
 
