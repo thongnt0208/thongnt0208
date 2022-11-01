@@ -9,9 +9,9 @@
 
 - 😍My favourite project: [OrganicWeb](https://github.com/thongnt0208/OrganicWeb) 
 
-- 🔭 I’m currently working on [dicePlay](https://github.com/thongnt0208/dicePlay.git)
+- 🔭 I’m currently working on [dicePlay](https://github.com/thongnt0208/dicePlay.git), [Book Shopping web app](https://github.com/thongnt0208/java-web-application-development-prj301)
 
-- 👯 I’m collaborating on [bakingRecipeSharingSocial]([https://github.com/SE1613-GROUP4-BakeryReceip](https://github.com/SE1613-GROUP4-BakeryReceip/BakeryRecipe_SWP))
+- 👯 I’m collaborating on [bakingRecipeSharingSocial](https://github.com/SE1613-GROUP4-BakeryReceip/BakeryRecipe_SWP)
 
 - 🥇 My awards and certifications: [awards](https://github.com/thongnt0208/certifications)
 
