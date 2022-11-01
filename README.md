@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [dicePlay](https://github.com/thongnt0208/dicePlay.git)
 
-- 👯 I’m collaborating on [bakingRecipeSharingSocial](https://github.com/SE1613-GROUP4-BakeryReceip)
+- 👯 I’m collaborating on [bakingRecipeSharingSocial]([https://github.com/SE1613-GROUP4-BakeryReceip](https://github.com/SE1613-GROUP4-BakeryReceip/BakeryRecipe_SWP))
 
 - 🥇 My awards and certifications: [awards](https://github.com/thongnt0208/certifications)
 
