@@ -7,7 +7,7 @@
 
 
 
-- 💁‍ My portfolio: [here](https://thongnt0208.github.io/portfolio)
+- 💁‍ My portfolio: [PORTFOLIO](https://thongnt0208.github.io/portfolio)
 
 - 😍My favourite project: [OrganicWeb](https://github.com/thongnt0208/OrganicWeb) 
 
