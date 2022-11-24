@@ -9,7 +9,7 @@
 
 - 💁‍ My portfolio: [PORTFOLIO](https://thongnt0208.github.io/portfolio)
 
-- 😍My favourite project: [OrganicWeb](https://github.com/thongnt0208/OrganicWeb) 
+- 😍My favourite project: [bakingRecipeSharingSocial](https://github.com/SE1613-GROUP4-BakeryReceip/BakeryRecipe_SWP), [OrganicWeb](https://github.com/thongnt0208/OrganicWeb)
 
 - 🔭 I’m currently working on [dicePlay](https://github.com/thongnt0208/dicePlay.git), [Book Shopping web app](https://github.com/thongnt0208/java-web-application-development-prj301)
 
