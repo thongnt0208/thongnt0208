@@ -9,11 +9,22 @@
 
 - 💁‍ My portfolio: [PORTFOLIO](https://thongnt0208.github.io/portfolio)
 
-- 😍My favourite project: [BAKING RECIPE SHARING SOCIAL](https://github.com/SE1613-GROUP4-BakeryReceip/BakeryRecipe_SWP), [OrganicWeb](https://github.com/thongnt0208/OrganicWeb)
+- 📂 My projects: 
+  - Java Web projects:
+    - [Baking Recipe Sharing Social](https://github.com/SE1613-GROUP4-BakeryReceip/BakeryRecipe_SWP) - Group project
+    - [Simple Bookstore Web App](https://github.com/thongnt0208/java-web-application-development-prj301) - Personal project
+  - ReactJS projects (personal):
+    - [Portfolio](https://thongnt0208.github.io/portfolio)
+    - [Components Practice](https://github.com/thongnt0208/fer201m-lab01-se1613-thongnt-se160850)
+    - [Router Practice](https://github.com/thongnt0208/fer201m-lab03-se1613-thongnt-se160850)
+  - HTML5 projects (personal):
+    - [Organic products presentation](https://github.com/thongnt0208/OrganicWeb) - to practice Layout, CSS skills
+    - [PSD to web](https://github.com/thongnt0208/cut-psd-eos) - to practice cut PSD file into web
+    - [Web Design subject's Capstone](https://github.com/thongnt0208/WED_Capstone)
+    - [dicePlay](https://github.com/thongnt0208/dicePlay) - to practice JavaScript skills
+  
 
-- 🔭 I’m currently working on [dicePlay](https://github.com/thongnt0208/dicePlay.git), [Book Shopping web app](https://github.com/thongnt0208/java-web-application-development-prj301)
-
-- 👯 I’m collaborating on [bakingRecipeSharingSocial](https://github.com/SE1613-GROUP4-BakeryReceip/BakeryRecipe_SWP)
+- 🔭 I’m currently working on [dicePlay](https://github.com/thongnt0208/dicePlay.git), [Simple Bookstore Web App](https://github.com/thongnt0208/java-web-application-development-prj301)
 
 - 🥇 My awards and certifications: [awards](https://github.com/thongnt0208/certifications)
 
