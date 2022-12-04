@@ -10,14 +10,14 @@
 - 💁‍ My portfolio: [PORTFOLIO](https://thongnt0208.github.io/portfolio)
 
 - 📂 My projects: 
-  - Java Web projects:
+  - 🍵 Java Web projects:
     - [Baking Recipe Sharing Social](https://github.com/SE1613-GROUP4-BakeryReceip/BakeryRecipe_SWP) - Group project
     - [Simple Bookstore Web App](https://github.com/thongnt0208/java-web-application-development-prj301) - Personal project
-  - ReactJS projects (personal):
+  - 🧪 ReactJS projects (personal):
     - [Portfolio](https://thongnt0208.github.io/portfolio)
     - [Components Practice](https://github.com/thongnt0208/fer201m-lab01-se1613-thongnt-se160850)
     - [Router Practice](https://github.com/thongnt0208/fer201m-lab03-se1613-thongnt-se160850)
-  - HTML5 projects (personal):
+  - 5️⃣ HTML5 projects (personal):
     - [Organic products presentation](https://github.com/thongnt0208/OrganicWeb) - to practice Layout, CSS skills
     - [PSD to web](https://github.com/thongnt0208/cut-psd-eos) - to practice cut PSD file into web
     - [Web Design subject's Capstone](https://github.com/thongnt0208/WED_Capstone)
