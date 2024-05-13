@@ -10,25 +10,18 @@
 - 💁‍ My portfolio: [PORTFOLIO](https://thongnt0208.github.io/portfolio)
 
 - 📂 My projects: 
-  - 🍵 Java Web projects:
-    - [Baking Recipe Sharing Social](https://github.com/SE1613-GROUP4-BakeryReceip/BakeryRecipe_SWP) - Group project
-    - [Simple Bookstore Web App](https://github.com/thongnt0208/java-web-application-development-prj301) - Personal project
-  - 🧪 ReactJS projects (personal):
-    - [Portfolio](https://thongnt0208.github.io/portfolio)
-    - [Components Practice](https://github.com/thongnt0208/fer201m-lab01-se1613-thongnt-se160850)
-    - [Router Practice](https://github.com/thongnt0208/fer201m-lab03-se1613-thongnt-se160850)
-  - 5️⃣ HTML5 projects (personal):
+  - 🍵 Web:
+    - [Baking Recipe Sharing Social](https://github.com/SE1613-GROUP4-BakeryReceip/BakeryRecipe_SWP) - Group project - JAVA
     - [Organic products presentation](https://github.com/thongnt0208/OrganicWeb) - to practice Layout, CSS skills
     - [PSD to web](https://github.com/thongnt0208/cut-psd-eos) - to practice cut PSD file into web
-    - [Web Design subject's Capstone](https://github.com/thongnt0208/WED_Capstone)
-    - [dicePlay](https://github.com/thongnt0208/dicePlay) - to practice JavaScript skills
   
-
-- 🔭 I’m currently working on [dicePlay](https://github.com/thongnt0208/dicePlay.git), [Simple Bookstore Web App](https://github.com/thongnt0208/java-web-application-development-prj301)
+<!---
+- 🔭 I’m currently working on [...](https://github.com/thongnt0208/dicePlay.git), [Simple Bookstore Web App](https://github.com/thongnt0208/java-web-application-development-prj301)
+--->
 
 - 🥇 My awards and certifications: [awards](https://github.com/thongnt0208/certifications)
 
-- 🌱 I’m currently learning **JS, ReactJS, Java, UX/UI,...**
+- 🌱 I’m currently learning **React JS-TS, UX/UI,...**
 
 - 📫 How to reach me **trungthongnguyen2002@gmail.com**
 
@@ -37,11 +30,6 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 
-<!-- Java -->
-<p align="center">
-    <a href="https://www.java.com" target="__blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" width="60" height="30" style = "border-radius: 40px"/> </a>
-</p>
-
 <!-- Front-end -->
 <p align="center">
     <a href="https://www.w3.org/html/" target="__blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="100" height="30" style = "border-radius: 40px"/> </a><!-- <a href="https://pugjs.org" target="__blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="60" height="30" style = "border-radius: 40px"/> </a> -->
@@ -49,17 +37,15 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="__blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" width="120" height="30" style = "border-radius: 40px"/> </a>
     <a href="https://getbootstrap.com" target="__blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" width="120" height="30" style = "border-radius: 40px"/> </a>
     <a href="https://materializecss.com/" target="__blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="materialize" width="100" height="30" style = "border-radius: 40px"/> </a>
+  <a href="https://materializecss.com/" target="__blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PrimeReact-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="materialize" width="100" height="30" style = "border-radius: 40px"/> </a>
+   <a href="https://www.java.com" target="__blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" width="60" height="30" style = "border-radius: 40px"/> </a>
 </p>
 
 <!-- React/Node -->
 <p align="center">
     <a href="https://reactjs.org/" target="__blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" width="100" height="30" style = "border-radius: 40px"/> </a>
+    <a href="https://reactjs.org/" target="__blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Angular-3690E2?style=for-the-badge&logo=Angular&logoColor=red" alt="react" width="100" height="30" style = "border-radius: 40px"/> </a>  
     <a href="https://nodejs.org" target="__blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" width="100" height="30" style = "border-radius: 40px"/> </a>
-</p>
-
-<!-- GIT -->
-<p align="center">
-    <a href="https://git-scm.com/" target="__blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" width="80" height="30" style = "border-radius: 40px"/></a>
 </p>
 
 <!-- SQL -->
@@ -67,11 +53,6 @@
     <a href="https://www.microsoft.com/en-us/sql-server" target="__blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="mssql" width="180" height="30" style = "border-radius: 40px"/> </a>
     <a href="https://www.mysql.com/" target="__blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" width="80" height="30" style = "border-radius: 40px"/> </a>
 </p>
-
-<!-- IoT -->
-<p align="center">
-    <a href="https://www.arduino.cc/" target="__blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="arduino" width="100" height="30" style = "border-radius: 40px"/> </a>
-</p> 
 
  </p>
 
